@@ -2,9 +2,9 @@
   "environment": "dev",
   "packageName": "com.example.mobile.dev",
   "versionName": "1.1.8",
-  "versionCode": 2020,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.8-bootstrap.2020/AQPConnect-1.1.8-dev.apk",
-  "sha256": "8c2dbb61fe76b7e891ddd522e6da921c45df66ac93ccb3af669b3d03e4718e3a",
-  "sizeBytes": 115374894,
-  "releaseNotes": "Bản đầu tiên có bộ cập nhật ứng dụng; bản build 2021 dùng để thử nâng cấp sẽ được phát hành tiếp theo."
+  "versionCode": 2021,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.8/AQPConnect-1.1.8-dev.apk",
+  "sha256": "bdc930312cfc637d5154b928f34ff5902373d6b6c4a705782a202a35c2c49f98",
+  "sizeBytes": 115374898,
+  "releaseNotes": "Bản nâng cấp thử nghiệm: cùng tính năng và phiên bản 1.1.8, tăng mã build từ 2020 lên 2021 để kiểm tra cập nhật trong ứng dụng."
 }
