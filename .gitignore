@@ -1,0 +1,8 @@
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+*.pem
+key.properties
+.env
