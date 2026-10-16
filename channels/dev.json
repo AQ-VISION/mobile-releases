@@ -1,0 +1,10 @@
+{
+  "environment": "dev",
+  "packageName": "com.example.mobile.dev",
+  "versionName": "1.1.8",
+  "versionCode": 2020,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.8-bootstrap.2020/AQPConnect-1.1.8-dev.apk",
+  "sha256": "8c2dbb61fe76b7e891ddd522e6da921c45df66ac93ccb3af669b3d03e4718e3a",
+  "sizeBytes": 115374894,
+  "releaseNotes": "Bản đầu tiên có bộ cập nhật ứng dụng; bản build 2021 dùng để thử nâng cấp sẽ được phát hành tiếp theo."
+}
