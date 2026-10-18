@@ -1,10 +1,10 @@
 {
   "environment": "dev",
   "packageName": "com.example.mobile.dev",
-  "versionName": "1.1.10",
-  "versionCode": 2023,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.10-dev.2023/AQPConnect-1.1.10-dev.apk",
-  "sha256": "75bc3b23d8a00e3c8de6f78f52c4262af16abb806c33af0b816ea31cc094056e",
-  "sizeBytes": 115408302,
-  "releaseNotes": "Bỏ gateway mẫu khỏi Quản lý thiết bị, bộ chọn gateway và thống kê online; thêm “Gỡ gateway” cho quản trị viên và người dùng để dọn kết nối đã lưu trên máy, cập nhật lựa chọn và trạng thái trống khi gỡ. Không xóa gateway hoặc dữ liệu trên server. Giữ các sửa lỗi camera, phiên đăng nhập và nút quay lại của Dev 1.1.9. Bản dành cho khách hàng giữ nguyên 1.1.8+2021."
+  "versionName": "1.1.11",
+  "versionCode": 2024,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.11-dev.2024/AQPConnect-1.1.11-dev.apk",
+  "sha256": "ab992b94e6bd5d93cd732e7868e0daeef8597c94a5ecc5eefb6b104c54199152",
+  "sizeBytes": 115408586,
+  "releaseNotes": "Sửa tải và khôi phục độc lập từng camera trong lưới bốn ô; giới hạn chờ khung hình đầu tiên và chuyển luồng dự phòng ở màn hình chi tiết; dọn phiên phát và tác vụ chờ khi chuyển màn hình. Giữ các sửa lỗi Dev trước; bản khách hàng giữ nguyên 1.1.8+2021."
 }
