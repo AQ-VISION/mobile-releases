@@ -5,15 +5,21 @@ khóa ký, mật khẩu và thông tin đăng nhập được lưu riêng.
 
 | Ứng dụng | Phiên bản hiện hành | Tải APK |
 | --- | --- | --- |
-| AQPConnect Dev (`com.example.mobile.dev`) | 1.1.9 — build 2022 | [Tải AQPConnect Dev](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9-dev.2022/AQPConnect-1.1.9-dev.apk) |
+| AQPConnect Dev (`com.example.mobile.dev`) | 1.1.10 — build 2023 | [Tải AQPConnect Dev](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.10-dev.2023/AQPConnect-1.1.10-dev.apk) |
 | AQPConnect (`com.example.mobile`) | 1.1.8 — build 2021 | [Tải AQPConnect](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.8/AQPConnect-1.1.8.apk) |
 
-Dev 1.1.9 sửa phiên đăng nhập khi tải danh sách camera, thông báo lỗi phiên và
-nút quay lại khi mở Quản lý thiết bị từ bộ chọn gateway. Bản khách hàng giữ
-1.1.8 trong lúc bản Dev được kiểm thử trước khi áp dụng các thay đổi này.
+Dev 1.1.10 bỏ gateway mẫu khỏi Quản lý thiết bị, bộ chọn gateway và thống kê
+online. Quản trị viên và người dùng đều có thể dùng “Gỡ gateway” để xóa kết
+nối đã lưu trên máy; lựa chọn hiện tại và trạng thái trống được cập nhật khi
+gỡ. Thao tác này không xóa gateway hoặc dữ liệu trên server. Các sửa lỗi
+camera, phiên đăng nhập và nút quay lại của Dev 1.1.9 được giữ lại.
+Bản khách hàng tiếp tục giữ 1.1.8 — build 2021.
 
-Trên Dev 1.1.8 (build 2020 hoặc 2021), mở Cài đặt → Cập nhật ứng dụng →
-Kiểm tra cập nhật, rồi tải và cài Dev 1.1.9 (2022). Có thể tải APK trong bảng
+Bản Dev trước đó: [1.1.9 — build 2022](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9-dev.2022/AQPConnect-1.1.9-dev.apk).
+
+Trên Dev 1.1.8 (build 2020 hoặc 2021) hoặc Dev 1.1.9 (2022), mở Cài đặt →
+Cập nhật ứng dụng → Kiểm tra cập nhật, rồi tải và cài Dev 1.1.10 (2023).
+Có thể tải APK trong bảng
 và cài đè lên AQPConnect Dev; giữ nguyên ứng dụng để giữ dữ liệu. Android yêu
 cầu cấp quyền cài đặt và xác nhận. Nếu camera yêu cầu đăng nhập lại sau nâng
 cấp, dùng tài khoản đang đăng nhập trên web Dev.

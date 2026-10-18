@@ -1,10 +1,10 @@
 {
   "environment": "dev",
   "packageName": "com.example.mobile.dev",
-  "versionName": "1.1.9",
-  "versionCode": 2022,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9-dev.2022/AQPConnect-1.1.9-dev.apk",
-  "sha256": "d1462a9de65b8db8e270964523a97639a2bf58292492548ba67c06065519d39b",
-  "sizeBytes": 115391630,
-  "releaseNotes": "Sửa phiên đăng nhập khi tải camera trên Cloud/Dev, hiển thị yêu cầu đăng nhập lại khi cần; thêm nút quay lại từ Quản lý thiết bị; ngăn dữ liệu tài khoản cũ ghi đè khi đổi tài khoản. Bản dành cho khách hàng giữ nguyên."
+  "versionName": "1.1.10",
+  "versionCode": 2023,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.10-dev.2023/AQPConnect-1.1.10-dev.apk",
+  "sha256": "75bc3b23d8a00e3c8de6f78f52c4262af16abb806c33af0b816ea31cc094056e",
+  "sizeBytes": 115408302,
+  "releaseNotes": "Bỏ gateway mẫu khỏi Quản lý thiết bị, bộ chọn gateway và thống kê online; thêm “Gỡ gateway” cho quản trị viên và người dùng để dọn kết nối đã lưu trên máy, cập nhật lựa chọn và trạng thái trống khi gỡ. Không xóa gateway hoặc dữ liệu trên server. Giữ các sửa lỗi camera, phiên đăng nhập và nút quay lại của Dev 1.1.9. Bản dành cho khách hàng giữ nguyên 1.1.8+2021."
 }
