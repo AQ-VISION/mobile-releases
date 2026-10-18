@@ -1,10 +1,10 @@
 {
   "environment": "dev",
   "packageName": "com.example.mobile.dev",
-  "versionName": "1.1.11",
-  "versionCode": 2024,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.11-dev.2024/AQPConnect-1.1.11-dev.apk",
-  "sha256": "ab992b94e6bd5d93cd732e7868e0daeef8597c94a5ecc5eefb6b104c54199152",
-  "sizeBytes": 115408586,
-  "releaseNotes": "Sửa tải và khôi phục độc lập từng camera trong lưới bốn ô; giới hạn chờ khung hình đầu tiên và chuyển luồng dự phòng ở màn hình chi tiết; dọn phiên phát và tác vụ chờ khi chuyển màn hình. Giữ các sửa lỗi Dev trước; bản khách hàng giữ nguyên 1.1.8+2021."
+  "versionName": "1.1.12",
+  "versionCode": 2025,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.12-dev.2025/AQPConnect-1.1.12-dev.apk",
+  "sha256": "3ecd99483f9c5c99e550c36f9a783bc371ff7f38c55047bb7b91756e052eb526",
+  "sizeBytes": 115409066,
+  "releaseNotes": "Cho phép các ô xem trước tắt tiếng phát đồng thời mà không tranh quyền phát âm thanh; khôi phục khi video bị tạm dừng ngoài ý muốn; thêm thông tin chẩn đoán Dev có thể sao chép để kiểm tra lưới camera bị đen. Giữ các sửa lỗi Dev trước; bản khách hàng giữ nguyên 1.1.8+2021."
 }
