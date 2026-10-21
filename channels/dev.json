@@ -1,10 +1,10 @@
 {
   "environment": "dev",
   "packageName": "com.example.mobile.dev",
-  "versionName": "1.1.12",
-  "versionCode": 2025,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.12-dev.2025/AQPConnect-1.1.12-dev.apk",
-  "sha256": "3ecd99483f9c5c99e550c36f9a783bc371ff7f38c55047bb7b91756e052eb526",
-  "sizeBytes": 115409066,
-  "releaseNotes": "Cho phép các ô xem trước tắt tiếng phát đồng thời mà không tranh quyền phát âm thanh; khôi phục khi video bị tạm dừng ngoài ý muốn; thêm thông tin chẩn đoán Dev có thể sao chép để kiểm tra lưới camera bị đen. Giữ các sửa lỗi Dev trước; bản khách hàng giữ nguyên 1.1.8+2021."
+  "versionName": "1.1.13",
+  "versionCode": 2026,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.13-dev.2026/AQPConnect-1.1.13-dev.apk",
+  "sha256": "f5f978fdf2aa6ff2733a072dc574bed23ba99cc2b2aa3de7f7c7ac3c36ba7e01",
+  "sizeBytes": 116574562,
+  "releaseNotes": "Tích hợp Eyerus Gateway V2: tìm và kết nối LAN, cài Wi-Fi qua Bluetooth, quản lý camera/luồng, xem trạng thái và khởi động lại có xác nhận, liên kết Cloud và phục hồi thao tác bị gián đoạn."
 }
