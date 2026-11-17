@@ -1,10 +1,10 @@
 {
   "environment": "prod",
   "packageName": "com.example.mobile",
-  "versionName": "1.1.8",
-  "versionCode": 2021,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.8/AQPConnect-1.1.8.apk",
-  "sha256": "a383d716c03b26df424c11d42f3a7f2beb857bda9207de275b2cb24818223445",
-  "sizeBytes": 115442930,
-  "releaseNotes": "Bản nâng cấp thử nghiệm: cùng tính năng và phiên bản 1.1.8, tăng mã build từ 2020 lên 2021 để kiểm tra cập nhật trong ứng dụng."
+  "versionName": "1.1.9",
+  "versionCode": 2022,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9/AQPConnect-1.1.9.apk",
+  "sha256": "463add439a4c0fd5801964420b9b4509a76275ddfd324550c2a033867700c0c6",
+  "sizeBytes": 115443162,
+  "releaseNotes": "Hiển thị khu vực máy chủ thay tên miền trên màn hình đăng nhập và Cài đặt; giữ nguyên cấu hình Cloud/Local và chữ ký để cập nhật ứng dụng."
 }
