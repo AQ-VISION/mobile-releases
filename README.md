@@ -5,26 +5,35 @@ khóa ký, mật khẩu và thông tin đăng nhập được lưu riêng.
 
 | Ứng dụng | Phiên bản hiện hành | Tải APK |
 | --- | --- | --- |
-| AQPConnect Dev (`com.example.mobile.dev`) | 1.1.14 — build 2027 | [Tải AQPConnect Dev](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.14-dev.2027/AQPConnect-1.1.14-dev.apk) |
-| AQPConnect (`com.example.mobile`) | 1.1.8 — build 2021 | [Tải AQPConnect](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.8/AQPConnect-1.1.8.apk) |
+| AQPConnect Dev (`com.example.mobile.dev`) | 1.1.15 — build 2028 | [Tải AQPConnect Dev](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.15-dev.2028/AQPConnect-1.1.15-dev.apk) |
+| AQPConnect (`com.example.mobile`) | 1.1.9 — build 2022 | [Tải AQPConnect](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9/AQPConnect-1.1.9.apk) |
 
-Dev 1.1.14 bổ sung thiết lập Eyerus qua BLE có xác thực, đổi mật khẩu mặc định
+Dev 1.1.15 và AQPConnect 1.1.9 hiển thị tên khu vực máy chủ thay tên miền
+ở màn hình đăng nhập và Cài đặt. Biểu tượng vị trí trung tính không thể hiện
+trạng thái kết nối. Cấu hình Cloud/Local, package và chứng chỉ ký được giữ lại.
+
+Nền Dev 1.1.14 trước đó bổ sung thiết lập Eyerus qua BLE có xác thực, đổi mật khẩu mặc định
 trước WiFi/liên kết và điều khiển camera/luồng qua phiên BLE trên firmware tương thích.
 Cải thiện thời hạn phản hồi và xử lý hộp thoại pairing/chuyển nền. Firmware cũ cần
 được kiểm tra capability; đăng ký cloud mới qua BLE vẫn bị chặn khi chính sách
 quyền riêng tư trên gateway còn là bản nháp. Chưa nghiệm thu BLE hoặc firmware
 ARM trên thiết bị thật; đây là bản Dev thử nghiệm.
-Bản khách hàng tiếp tục giữ 1.1.8 — build 2021.
+Bản khách hàng 1.1.9 — build 2022 chỉ nhận thay đổi hiển thị khu vực trên nền
+1.1.8; các tính năng Dev đang chờ nghiệm thu chưa được chuyển sang khách hàng.
+Từ AQPConnect 1.1.8, mở Cài đặt → Cập nhật ứng dụng để tải và cài AQPConnect
+1.1.9. Android yêu cầu quyền cài đặt và xác nhận; không cần gỡ ứng dụng hiện có.
 
-Bản Dev trước đó: [1.1.13 — build 2026](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.13-dev.2026/AQPConnect-1.1.13-dev.apk).
+Bản Dev trước đó: [1.1.14 — build 2027](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.14-dev.2027/AQPConnect-1.1.14-dev.apk).
+Bản 1.1.13: [1.1.13 — build 2026](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.13-dev.2026/AQPConnect-1.1.13-dev.apk).
 Bản 1.1.12: [1.1.12 — build 2025](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.12-dev.2025/AQPConnect-1.1.12-dev.apk).
 Bản 1.1.11: [1.1.11 — build 2024](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.11-dev.2024/AQPConnect-1.1.11-dev.apk).
 Bản 1.1.10: [1.1.10 — build 2023](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.10-dev.2023/AQPConnect-1.1.10-dev.apk).
 Bản 1.1.9: [1.1.9 — build 2022](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9-dev.2022/AQPConnect-1.1.9-dev.apk).
 
 Trên Dev 1.1.8 (build 2020 hoặc 2021), Dev 1.1.9 (2022), Dev 1.1.10 (2023),
-Dev 1.1.11 (2024), Dev 1.1.12 (2025) hoặc Dev 1.1.13 (2026), mở Cài đặt → Cập nhật ứng dụng → Kiểm tra cập nhật,
-rồi tải và cài Dev 1.1.14 (2027). Có thể tải APK trong bảng và cài đè lên
+Dev 1.1.11 (2024), Dev 1.1.12 (2025), Dev 1.1.13 (2026) hoặc Dev 1.1.14
+(2027), mở Cài đặt → Cập nhật ứng dụng → Kiểm tra cập nhật,
+rồi tải và cài Dev 1.1.15 (2028). Có thể tải APK trong bảng và cài đè lên
 AQPConnect Dev; giữ nguyên ứng dụng để giữ dữ liệu. Android yêu cầu cấp
 quyền cài đặt và xác nhận. Nếu camera yêu cầu đăng nhập lại sau nâng cấp,
 dùng tài khoản đang đăng nhập trên web Dev.
