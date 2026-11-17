@@ -1,10 +1,10 @@
 {
   "environment": "dev",
   "packageName": "com.example.mobile.dev",
-  "versionName": "1.1.14",
-  "versionCode": 2027,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.14-dev.2027/AQPConnect-1.1.14-dev.apk",
-  "sha256": "fa3c1bb454114d8d0a9892cd939310d50cf912eeb99d872c866036e8c1367f12",
-  "sizeBytes": 116837254,
-  "releaseNotes": "Bản Dev thử nghiệm: thiết lập Eyerus qua BLE có xác thực, đổi mật khẩu mặc định trước WiFi/liên kết, điều khiển camera/luồng qua BLE và phục hồi phiên khi quay lại app. Cần firmware secure BLE tương thích; đăng ký cloud mới vẫn chờ chính sách chính thức. Chưa nghiệm thu BLE/ARM trên thiết bị thật."
+  "versionName": "1.1.15",
+  "versionCode": 2028,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.15-dev.2028/AQPConnect-1.1.15-dev.apk",
+  "sha256": "a497c2e23c05ad1ba5c4e0ba021639c31299d968de8a10daf7efae4dcf62d3cd",
+  "sizeBytes": 116837486,
+  "releaseNotes": "Hiển thị khu vực máy chủ thay tên miền trên màn hình đăng nhập và Cài đặt; giữ nguyên cấu hình Cloud/Local và chữ ký để cập nhật ứng dụng."
 }
