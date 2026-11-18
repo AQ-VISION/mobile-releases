@@ -6,9 +6,15 @@ khóa ký, mật khẩu và thông tin đăng nhập được lưu riêng.
 | Ứng dụng | Phiên bản hiện hành | Tải APK |
 | --- | --- | --- |
 | AQPConnect Dev (`com.example.mobile.dev`) | 1.1.15 — build 2028 | [Tải AQPConnect Dev](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.15-dev.2028/AQPConnect-1.1.15-dev.apk) |
-| AQPConnect (`com.example.mobile`) | 1.1.9 — build 2022 | [Tải AQPConnect](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9/AQPConnect-1.1.9.apk) |
+| AQPConnect (`com.example.mobile`) | 1.1.10 — build 2023 | [Tải AQPConnect](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.10/AQPConnect-1.1.10.apk) |
 
-Dev 1.1.15 và AQPConnect 1.1.9 hiển thị tên khu vực máy chủ thay tên miền
+AQPConnect 1.1.10 sửa danh sách camera/nhóm cho tài khoản ADMIN để khớp quyền
+xem trên web Media, báo lỗi phiên đăng nhập và xóa dữ liệu camera cũ khi đổi
+tài khoản. Quyền riêng của tài khoản khách hàng, máy chủ và chữ ký được giữ
+nguyên. Từ AQPConnect 1.1.9, mở Cài đặt → Cập nhật ứng dụng để tải và cài
+1.1.10; nếu phiên đăng nhập đã hết hạn, đăng nhập lại bằng tài khoản web Media.
+
+Dev 1.1.15 và bản khách hàng 1.1.9 trước đó hiển thị tên khu vực máy chủ thay tên miền
 ở màn hình đăng nhập và Cài đặt. Biểu tượng vị trí trung tính không thể hiện
 trạng thái kết nối. Cấu hình Cloud/Local, package và chứng chỉ ký được giữ lại.
 
@@ -20,8 +26,10 @@ quyền riêng tư trên gateway còn là bản nháp. Chưa nghiệm thu BLE ho
 ARM trên thiết bị thật; đây là bản Dev thử nghiệm.
 Bản khách hàng 1.1.9 — build 2022 chỉ nhận thay đổi hiển thị khu vực trên nền
 1.1.8; các tính năng Dev đang chờ nghiệm thu chưa được chuyển sang khách hàng.
-Từ AQPConnect 1.1.8, mở Cài đặt → Cập nhật ứng dụng để tải và cài AQPConnect
-1.1.9. Android yêu cầu quyền cài đặt và xác nhận; không cần gỡ ứng dụng hiện có.
+Từ AQPConnect 1.1.8 hoặc 1.1.9, mở Cài đặt → Cập nhật ứng dụng để tải và cài
+AQPConnect 1.1.10 (2023). Android yêu cầu quyền cài đặt và xác nhận; không cần gỡ ứng dụng hiện có.
+
+Bản khách hàng trước đó: [1.1.9 — build 2022](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9/AQPConnect-1.1.9.apk).
 
 Bản Dev trước đó: [1.1.14 — build 2027](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.14-dev.2027/AQPConnect-1.1.14-dev.apk).
 Bản 1.1.13: [1.1.13 — build 2026](https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.13-dev.2026/AQPConnect-1.1.13-dev.apk).
