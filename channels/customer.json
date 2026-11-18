@@ -1,10 +1,10 @@
 {
   "environment": "prod",
   "packageName": "com.example.mobile",
-  "versionName": "1.1.9",
-  "versionCode": 2022,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.9/AQPConnect-1.1.9.apk",
-  "sha256": "463add439a4c0fd5801964420b9b4509a76275ddfd324550c2a033867700c0c6",
-  "sizeBytes": 115443162,
-  "releaseNotes": "Hiển thị khu vực máy chủ thay tên miền trên màn hình đăng nhập và Cài đặt; giữ nguyên cấu hình Cloud/Local và chữ ký để cập nhật ứng dụng."
+  "versionName": "1.1.10",
+  "versionCode": 2023,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.10/AQPConnect-1.1.10.apk",
+  "sha256": "d9126c8775172f5b678bb5caf385febfb9b939d1a4db17af80aed158f666d252",
+  "sizeBytes": 115476246,
+  "releaseNotes": "Sửa danh sách camera và nhóm để quyền xem của tài khoản ADMIN trên app khớp với web Media. Hiển thị lỗi khi phiên đăng nhập hết hạn và xóa dữ liệu camera cũ khi đổi tài khoản. Giữ nguyên máy chủ, khóa ký và cách phát video."
 }
