@@ -1,10 +1,10 @@
 {
   "environment": "prod",
   "packageName": "com.example.mobile",
-  "versionName": "1.1.10",
-  "versionCode": 2023,
-  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.10/AQPConnect-1.1.10.apk",
-  "sha256": "d9126c8775172f5b678bb5caf385febfb9b939d1a4db17af80aed158f666d252",
-  "sizeBytes": 115476246,
-  "releaseNotes": "Sửa danh sách camera và nhóm để quyền xem của tài khoản ADMIN trên app khớp với web Media. Hiển thị lỗi khi phiên đăng nhập hết hạn và xóa dữ liệu camera cũ khi đổi tài khoản. Giữ nguyên máy chủ, khóa ký và cách phát video."
+  "versionName": "1.1.11",
+  "versionCode": 2024,
+  "apkUrl": "https://github.com/AQ-VISION/mobile-releases/releases/download/v1.1.11/AQPConnect-1.1.11.apk",
+  "sha256": "aa39da66ca860425864809fc219e09c0b37f43bc68214eba491c86e28215698e",
+  "sizeBytes": 115427422,
+  "releaseNotes": "Bỏ hai Gateway mẫu và ngừng tự tạo dữ liệu mẫu. Giữ lại Gateway thật, cấu hình kết nối, máy chủ và khóa ký hiện tại."
 }
